@@ -1,5 +1,7 @@
 # Changelog
 
+hola
+
 ### 2.0.0 (PRERELEASE-2)
 * Allow connstring suppression of TransactionScope. Thanks **@freakingawesome**.
 * Allow lazy queries using yield statements. Thanks **@freakingawesome**.
